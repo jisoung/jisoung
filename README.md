@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?color=auto&type=soft&text=jisoung&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?color=auto&type=soft&text=jisoung&animation=blink)
